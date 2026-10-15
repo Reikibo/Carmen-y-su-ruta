@@ -1,0 +1,15 @@
+{
+  "name": "amor-x-carmen",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Prototipo de transporte Amor X Carmen — Ciudad del Carmen",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "dev": "node scripts/serve.mjs",
+    "test": "node --test"
+  }
+}
